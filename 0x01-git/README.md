@@ -1,1 +1,1 @@
-codinf is fun
+my second readme
